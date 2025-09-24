@@ -33,17 +33,17 @@ Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
 ⚙️ Installation & Usage
 1. Clone the Repository
-   git clone https://github.com/niteshkumar2017/stock-price-prediction
+   git clone https://github.com/niteshkumar2017/stock-price-prediction<br>
    cd stock-price-prediction
-2. Install Dependencies
-   pip install -r requirements.txt
+2. Install Dependencies<br>
+   pip install <br>-r requirements.txt
 
    requirements.txt
-   pandas
-   numpy
-   matplotlib
-   scikit-learn
-   seaborn
+   pandas<br>
+   numpy<br>
+   matplotlib<br>
+   scikit-learn<br>
+   seaborn<br>
 
 3. Run the Script
    python stock_price_prediction.py
@@ -51,7 +51,7 @@ Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 📊 Results
 Model Evaluation
 
-RMSE (Root Mean Square Error): e.g., 12.45
+RMSE (Root Mean Square Error): e.g., 12.45<br>
 
 R² Score: e.g., 0.87
 
@@ -75,6 +75,6 @@ Automate data fetching using Yahoo Finance API.
 
 👨‍💻 Author
 
-Nitesh Kumar
-📍 Lucknow, India
+Nitesh Kumar<br>
+📍 Lucknow, India<br>
 📧 nitesh.ankit.2004@gmail.com
