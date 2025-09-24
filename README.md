@@ -33,7 +33,7 @@ Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
 ⚙️ Installation & Usage
 1. Clone the Repository
-   git clone https://github.com/your-username/stock-price-prediction.git
+   git clone https://github.com/niteshkumar2017/stock-price-prediction
    cd stock-price-prediction
 2. Install Dependencies
    pip install -r requirements.txt
