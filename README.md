@@ -24,12 +24,12 @@ Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
-📂 Project Structure
-📁 Stock-Price-Prediction
-│── stock_price_prediction.py   # Main script
-│── stock_data.csv              # Dataset (downloaded from Yahoo Finance)
-│── README.md                   # Project documentation
-│── results/                    # Save output graphs here
+📂 Project Structure<br>
+📁 Stock-Price-Prediction<br>
+│── stock_price_prediction.py   # Main script<br>
+│── stock_data.csv              # Dataset (downloaded from Yahoo Finance)<br>
+│── README.md                   # Project documentation<br>
+│── results/                    # Save output graphs here<br>
 
 ⚙️ Installation & Usage
 1. Clone the Repository
